@@ -13,4 +13,4 @@ The various modules in it are-
 3) Portal for NGOs : Our app connects to various NGOs and notifies them about the possibility of occurence of flood.
 4) Resource Tracking and allocation : It provides an interface for the government agencies to track how much resources have been allocated to which city/district , thus ensuring proper utilization .
 5) Location of Relief Camps : The app provides the location of nearby relief camps along with contact details.
-6) Call for Help : If any afflicted person needs some specific requirement of resource, the app allows them to put a request . If they can't place request due to problem of internet, the nearby local agencies can place it.
+6) Call for Help : If a perosn is stuck somewhere and theyhave a proper internet connection, they can request for help which will send the location where they are stuck to relief camps.
